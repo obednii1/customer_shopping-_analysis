@@ -1,9 +1,3 @@
-Here is a revamped, engaging, and recruiter-friendly README!
-
-I added clean icons/emojis, streamlined the SQL and Python code snippets into brief examples, and removed references to the Gamma presentation since it's not done yet.
-
----
-
 # 🛒 Customer Shopping Behavior Data Analytics Project
 
 ## 📌 Overview
